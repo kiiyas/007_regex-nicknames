@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ekkc055a5as48idp?svg=true)](https://ci.appveyor.com/project/kiiyas/005-oop-classes)
+[![Build status](https://ci.appveyor.com/api/projects/status/kf6cgl0hb7g3hkpj?svg=true)](https://ci.appveyor.com/project/kiiyas/007-regex-nicknames)
 
 ## Никнеймы
 ### Легенда
